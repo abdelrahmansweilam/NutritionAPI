@@ -2,5 +2,5 @@
 # NutritionAPI
 This project is coded in Ruby using Ruby on Rails framework.
 
-To run the project run the following command:
+To run the project run the following command in the terminal:
 ### rails s -p 5000   
