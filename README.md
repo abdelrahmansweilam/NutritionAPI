@@ -18,5 +18,5 @@ the request should like the following format:
 ###    "email": "admin@admin.com",
 ###    "password": "admin"
 ### }
-for any image that you want to use, you need to convert it first to base64 format from the following website: https://easy64.org/convert-file-to-base64/ , afterwards copy the result into the picture field above.
-the admin and password fielad are the manually created admin's credentials (not using them would result in an error).
+For any image that you want to use, you need to convert it first to base64 format from the following website: https://easy64.org/convert-file-to-base64/ , afterwards copy the result into the picture field above.
+The admin and password fields are the manually created admin's credentials (not using them would result in an error).
